@@ -2,16 +2,18 @@
 
 Testing
 
-<<<<<<< HEAD
 testing
-=======
 zinho123
->>>>>>> 9e42655067dcb0071e71bc71e9a786dbb41eb088
  
 
  zzzz
+<<<<<<< HEAD
 >>>>>>> bcaf2a731c3be7503c882a76a393923764d4ec3d
 
 
 zzzzzz Marcus
 
+=======
+
+bcaf2a731c3be7503c882a76a393923764d4ec3d
+>>>>>>> 9a89d4facfd35c7aef7b96afca3b116ea6cf2630
